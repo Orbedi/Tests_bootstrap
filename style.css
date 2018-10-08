@@ -1,0 +1,12 @@
+.estilo-card {
+    background-color: #108c41;
+}
+
+.estilo-a {
+    color: white;
+}
+
+.estilo-a:hover{
+    color: white;
+    font-weight: bold;
+}
